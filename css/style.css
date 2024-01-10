@@ -1,0 +1,25 @@
+body{
+    background-color: white;
+    font-family: tahoma;
+}
+
+div{
+    padding: 15px 0;
+    text-align: center;
+}
+
+.secao-inicial img{
+    width: 150px;
+}
+
+.secao-inicial p{
+    margin: 15px;
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+.secao-inicial a{
+    font-size: 18px;
+    color: #1d1d1d;
+    border: 2px solid #1d1d1d;
+}
